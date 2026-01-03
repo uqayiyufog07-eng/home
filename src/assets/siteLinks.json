@@ -17,12 +17,12 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://blog.laoqian303.qzz.io/reading"
+    "link": "https://introduce.laoqian303.qzz.io/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://blog.laoqian303.qzz.io/reading"
+    "name": "封面生成器",
+    "link": "https://cover.laoqian303.qzz.io/"
   },
   {
     "icon": "Fire",
