@@ -6,13 +6,13 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://blog.laoqian303.qzz.io/reading"
+    "name": "Edgetunnel",
+    "link": "https://vpp.laoqian303.us.kg/admin"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://blog.laoqian303.qzz.io/reading"
+    "link": "https://music.laoqian303.us.kg/"
   },
   {
     "icon": "Compass",
@@ -26,12 +26,12 @@
   },
   {
     "icon": "Fire",
-    "name": "调酒师",
-    "link": "https://wine.laoqian303.qzz.io/"
+    "name": "新闻",
+    "link": "https://music.laoqian303.us.kg"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://blog.laoqian303.qzz.io/reading"
+    "name": "API",
+    "link": "https://api.laoqian303.us.kg"
   }
 ]
