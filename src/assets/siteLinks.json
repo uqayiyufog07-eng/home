@@ -27,7 +27,7 @@
   {
     "icon": "Fire",
     "name": "新闻",
-    "link": "https://music.laoqian303.us.kg"
+    "link": "https://news.laoqian303.qzz.io"
   },
   {
     "icon": "CompactDisc",
@@ -43,6 +43,11 @@
     "icon": "Blog",
     "name": "player",
     "link": "https://player.laoqian303.qzz.io/"
+  },
+  {
+    "icon": "Book",
+    "name": "Md卡片",
+    "link": "https://md.laoqian303.qzz.io/"
   },
   {
     "icon": "LaptopCode",
