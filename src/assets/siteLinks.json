@@ -30,6 +30,21 @@
     "link": "https://music.laoqian303.us.kg"
   },
   {
+    "icon": "CompactDisc",
+    "name": "MacOS",
+    "link": "https://mac.laoqian303.qzz.io/"
+  },
+  {
+    "icon": "Compass",
+    "name": "MacOS",
+    "link": "https://planet.laoqian303.workers.dev/"
+  },
+  {
+    "icon": "Blog",
+    "name": "player",
+    "link": "https://player.laoqian303.qzz.io/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "API",
     "link": "https://api.laoqian303.us.kg"
